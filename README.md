@@ -14,6 +14,7 @@ All you need to do is enter details about your exercise in the following manner 
 2. input = danced 56 mins
 3. input = alked 5k steps
 4. input = cycled for 40 mins
+
 These are just some examples, you can enter any exercise of your choice.
 
 ---
