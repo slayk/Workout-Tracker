@@ -3,16 +3,16 @@ from datetime import datetime
 
 # User Details
 
-GENDER = "female"
-WEIGHT_KG = 60
-HEIGHT_CM = 163
-AGE = 20
+GENDER = xxx
+WEIGHT_KG = xxx
+HEIGHT_CM = xxx
+AGE = xxx
 
 # API keys, tokens
 
-APP_ID = "fa9e012d"
-API_KEY = "39a3da7ee37318b113d1830828b35cdd"
-BEARER_TOKEN = "kritisingh"
+APP_ID = xxx
+API_KEY = xxx
+BEARER_TOKEN = xxx
 
 # Endpoints
 
